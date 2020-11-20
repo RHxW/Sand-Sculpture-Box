@@ -56,4 +56,6 @@ board = [[0,0,0,0],
          [0,2,0,0],
          [1,2,0,1]
          ]
+print(board)
 move_up(board)
+print(board)
